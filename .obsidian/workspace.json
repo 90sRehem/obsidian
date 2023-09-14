@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "8ceeb543b23879f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2de6564e54157723",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc76838e7f1309da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/git/How do I change the URI (URL) for a remote Git repository.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d93ea79b4a06f03",
+    "type": "split",
+    "children": [
+      {
+        "id": "758c0f5a6352efb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8801558da9b93595",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "737ed02351a06e31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abfba5aa7908ea14",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b90b1e78de6873c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b340302eeda10299",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cafaac0a20e364f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "programming/git/How do I change the URI (URL) for a remote Git repository.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff17623e1d72dcc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "programming/git/How do I change the URI (URL) for a remote Git repository.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8108f01dca61a6ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc1214a80b46aa24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "programming/git/How do I change the URI (URL) for a remote Git repository.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dc76838e7f1309da",
+  "lastOpenFiles": [
+    "README.md",
+    "hyperlocal/git config local.md",
+    "programming/git/Configure your Git username & email.md",
+    "hyperlocal",
+    "programming/git/create branch.md",
+    "payment/index.ts.md",
+    "programming/wsl/set default distro in wsl.md",
+    "programming/wsl/change wsl directory.md",
+    "programming/wsl",
+    "programming/VSCODE/thunder client uuid variables.md",
+    "programming/VSCODE",
+    "programming/npm/prevent semantic range when installing packages.md",
+    "programming/npm",
+    "programming/linux/set your user in unix terminal.md",
+    "programming/linux/install nvm.md",
+    "programming/linux/how to kill port on ubuntu.md",
+    "programming/linux/Installing node in ubuntu.md",
+    "programming/linux/How to check if port is in use in.md",
+    "programming/linux/Disable CORS in chrome.md",
+    "programming/linux",
+    "programming/JS/React/Stitches.md",
+    "programming/JS/NodeJS/Injecting classes without Injectable.md",
+    "programming/JS/NodeJS/How to create a directory if it doesn't exist using Node.js.md",
+    "programming/JS/type and parse proceess.env with zod.md",
+    "programming/JS/split currency from Intl.NumberFormat.md",
+    "programming/JS/download file using axios.md",
+    "programming/JS/React",
+    "programming/JS/NodeJS",
+    "programming/JS/Fix axios request interceptors.md",
+    "programming/JS",
+    "programming/git/configure ssh-keys.md",
+    "programming/git/How do I change the URI (URL) for a remote Git repository.md",
+    "programming/git",
+    "programming/docker/create postgres db.md",
+    "programming/docker",
+    "programming/CSS/put text inside svg circle with width and height 25px.md"
+  ]
+}
