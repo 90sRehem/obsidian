@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2de6564e54157723",
+        "id": "0a0bd630753cd354",
         "type": "tabs",
         "children": [
           {
-            "id": "dc76838e7f1309da",
+            "id": "5d51e1bf28cf477c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming/git/How do I change the URI (URL) for a remote Git repository.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/git/How do I change the URI (URL) for a remote Git repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/git/How do I change the URI (URL) for a remote Git repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "programming/git/How do I change the URI (URL) for a remote Git repository.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc76838e7f1309da",
+  "active": "5d51e1bf28cf477c",
   "lastOpenFiles": [
+    "Daily.md",
+    "programming/git/revert a pushed commit.md",
     "README.md",
     "hyperlocal/git config local.md",
+    "programming/linux/generate RSA-256 keys.md",
+    "programming/JS/React/custom store.md",
+    "programming/docker/install docker.md",
+    "programming/docker/create postgres db.md",
+    "programming/git/How do I change the URI (URL) for a remote Git repository.md",
     "programming/git/Configure your Git username & email.md",
     "hyperlocal",
     "programming/git/create branch.md",
@@ -173,17 +172,10 @@
     "programming/JS/NodeJS/Injecting classes without Injectable.md",
     "programming/JS/NodeJS/How to create a directory if it doesn't exist using Node.js.md",
     "programming/JS/type and parse proceess.env with zod.md",
-    "programming/JS/split currency from Intl.NumberFormat.md",
-    "programming/JS/download file using axios.md",
     "programming/JS/React",
     "programming/JS/NodeJS",
-    "programming/JS/Fix axios request interceptors.md",
     "programming/JS",
-    "programming/git/configure ssh-keys.md",
-    "programming/git/How do I change the URI (URL) for a remote Git repository.md",
     "programming/git",
-    "programming/docker/create postgres db.md",
-    "programming/docker",
-    "programming/CSS/put text inside svg circle with width and height 25px.md"
+    "programming/docker"
   ]
 }
