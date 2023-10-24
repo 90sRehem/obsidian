@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d51e1bf28cf477c",
+            "id": "e5c532adbbd169cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "programming/git/reset unsend commit.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "programming/git/reset unsend commit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "programming/git/reset unsend commit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "programming/git/reset unsend commit.md"
+              }
             }
           }
         ]
@@ -139,27 +147,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d51e1bf28cf477c",
+  "active": "e5c532adbbd169cd",
   "lastOpenFiles": [
-    "Daily.md",
     "programming/git/revert a pushed commit.md",
+    "programming/git/reset unsend commit.md",
+    "programming/npm/How to view the dependency tree of a given npm module?.md",
+    "programming/npm/prevent semantic range when installing packages.md",
+    "hyperlocal/Daily.md",
     "README.md",
+    "Untitled.md",
+    "programming/JS/React/Stitches.md",
+    "programming/JS/React/custom store.md",
     "hyperlocal/git config local.md",
     "programming/linux/generate RSA-256 keys.md",
-    "programming/JS/React/custom store.md",
     "programming/docker/install docker.md",
     "programming/docker/create postgres db.md",
     "programming/git/How do I change the URI (URL) for a remote Git repository.md",
     "programming/git/Configure your Git username & email.md",
     "hyperlocal",
     "programming/git/create branch.md",
-    "payment/index.ts.md",
+    "hyperlocal/payment/index.ts.md",
     "programming/wsl/set default distro in wsl.md",
     "programming/wsl/change wsl directory.md",
     "programming/wsl",
     "programming/VSCODE/thunder client uuid variables.md",
     "programming/VSCODE",
-    "programming/npm/prevent semantic range when installing packages.md",
     "programming/npm",
     "programming/linux/set your user in unix terminal.md",
     "programming/linux/install nvm.md",
@@ -168,10 +180,6 @@
     "programming/linux/How to check if port is in use in.md",
     "programming/linux/Disable CORS in chrome.md",
     "programming/linux",
-    "programming/JS/React/Stitches.md",
-    "programming/JS/NodeJS/Injecting classes without Injectable.md",
-    "programming/JS/NodeJS/How to create a directory if it doesn't exist using Node.js.md",
-    "programming/JS/type and parse proceess.env with zod.md",
     "programming/JS/React",
     "programming/JS/NodeJS",
     "programming/JS",
