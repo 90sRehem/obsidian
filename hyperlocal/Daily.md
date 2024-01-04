@@ -1,10 +1,6 @@
 ### o que eu fiz ontem:
-- finalizei a parte mobile do dashboard de recorrencia
+- subi o pr pra code review e estou fazendo os ajustes
 
 ### para hoje:
-- continuar a integração com as apis de pausar, continuar, prorrogar e cancelar
+- estou ativo na tela de edição de contrato
 
-### dúvidas 
-
-
-### pontos para discutir

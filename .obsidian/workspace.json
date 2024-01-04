@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0a0bd630753cd354",
+        "id": "33acb9aad3858107",
         "type": "tabs",
         "children": [
           {
-            "id": "e5c532adbbd169cd",
+            "id": "d85073513eb2dcb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/git/reset unsend commit.md",
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5802e478ebb9a13a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Para ler.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/git/reset unsend commit.md",
+                "file": "Para ler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/git/reset unsend commit.md",
+                "file": "Para ler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/git/reset unsend commit.md"
+                "file": "Para ler.md"
               }
             }
           }
@@ -147,43 +160,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5c532adbbd169cd",
+  "active": "5802e478ebb9a13a",
   "lastOpenFiles": [
-    "programming/git/revert a pushed commit.md",
-    "programming/git/reset unsend commit.md",
-    "programming/npm/How to view the dependency tree of a given npm module?.md",
-    "programming/npm/prevent semantic range when installing packages.md",
-    "hyperlocal/Daily.md",
-    "README.md",
+    "Para ler.md",
     "Untitled.md",
-    "programming/JS/React/Stitches.md",
-    "programming/JS/React/custom store.md",
-    "hyperlocal/git config local.md",
-    "programming/linux/generate RSA-256 keys.md",
-    "programming/docker/install docker.md",
+    "Untitled 1.md",
+    "programming/CSS/add ... to long text.md",
+    "programming/JS/React/hooks/useReducer.md",
+    "programming/JS/encode url params.md",
+    "hyperlocal/Daily.md",
+    "programming/JS/React/hooks/useMachine.md",
+    "programming/JS/Nestjs/remove x-powered-by in nest.md",
+    "programming/JS/React/hooks/useUrlState.md",
+    "programming/JS/React/hooks",
     "programming/docker/create postgres db.md",
+    "programming/JS/Fix axios request interceptors.md",
+    "programming/git/reset unsend commit.md",
+    "programming/JS/Normalizar cpf e cnpj.md",
+    "hyperlocal/fluxo BKO.md",
+    "programming/JS/React/Bug Replacing a button with a new button type submit causes a form to be submitted without pressing the button.md",
+    "programming/JS/Nestjs",
+    "programming/docker/Access docker terminal containter.md",
+    "programming/CSS/Target specific CSS classes with Styled Components.md",
+    "programming/CSS/put text inside svg circle with width and height 25px.md",
+    "programming/CSS/how to make a div receive all css properties as props with styled components.md",
     "programming/git/How do I change the URI (URL) for a remote Git repository.md",
-    "programming/git/Configure your Git username & email.md",
-    "hyperlocal",
+    "programming/docker/install docker.md",
+    "programming/linux/generate RSA-256 keys.md",
+    "programming/JS/NodeJS/Injecting classes without Injectable.md",
     "programming/git/create branch.md",
-    "hyperlocal/payment/index.ts.md",
-    "programming/wsl/set default distro in wsl.md",
-    "programming/wsl/change wsl directory.md",
+    "programming/git/revert a pushed commit.md",
+    "hyperlocal",
     "programming/wsl",
-    "programming/VSCODE/thunder client uuid variables.md",
     "programming/VSCODE",
     "programming/npm",
-    "programming/linux/set your user in unix terminal.md",
-    "programming/linux/install nvm.md",
-    "programming/linux/how to kill port on ubuntu.md",
-    "programming/linux/Installing node in ubuntu.md",
-    "programming/linux/How to check if port is in use in.md",
-    "programming/linux/Disable CORS in chrome.md",
     "programming/linux",
     "programming/JS/React",
     "programming/JS/NodeJS",
-    "programming/JS",
-    "programming/git",
-    "programming/docker"
+    "programming/JS"
   ]
 }
