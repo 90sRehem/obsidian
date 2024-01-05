@@ -1,1 +1,0 @@
-[link](https://www.builder.io/blog/new-url#common-issue-2-forgetting-to-encode)
