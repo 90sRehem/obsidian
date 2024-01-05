@@ -10,6 +10,10 @@
 [Exploring Advanced Component Patterns in React: Render Props, Component Composition, and Hooks 🪝](https://blog.stackademic.com/exploring-advanced-component-patterns-in-react-render-props-component-composition-and-hooks-8a20132cde6b)
 [React: How React Works Under The Hood](https://medium.com/@ruchivora16/react-how-react-works-under-the-hood-9b621ee69fb5)
 [Using React Router v6 with React](https://medium.com/@vnkelkar11/using-react-router-v6-with-react-8615c37cb548)
+[It’s 2024, Please Stop Using “&&” for Conditional Rendering in React](https://medium.com/@nangendodennis/its-2024-please-stop-using-for-conditional-rendering-in-react-e713d23dd660)
+[Using Error Boundary in React](https://medium.com/@vnkelkar11/using-error-boundary-in-react-a29ded725eee)
+[Absolutely Don’t Use Relative Paths Imports In Your Vite React Project.](https://medium.com/@pushplaybang/absolutely-dont-use-relative-paths-imports-in-your-vite-react-project-c8593f93bbea)
+[Uncommonly Used But Very Useful Hooks In React](https://javascript.plainenglish.io/7-uncommonly-used-but-very-useful-hooks-in-react-03c978dcba69)
 ## Para assistir
 [Tailwind and Storybook… FINALLY!](https://www.youtube.com/watch?v=zlmpn88LxNM&ab_channel=Chromatic)
 
