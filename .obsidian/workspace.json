@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85bb7be9e6cc0653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/JS/React/hooks/useReducer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Para ler.md",
+                "file": "programming/JS/React/hooks/useReducer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Para ler.md",
+                "file": "programming/JS/React/hooks/useReducer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Para ler.md"
+                "file": "programming/JS/React/hooks/useReducer.md"
               }
             }
           }
@@ -147,21 +160,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9661a6200e12cf3b",
+  "active": "85bb7be9e6cc0653",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "programming/JS/React/hooks/useUrlState.md",
+    "programming/JS/React/hooks/useReducer.md",
+    "programming/JS/React/A Custom useStateMachine React Hook.md",
     "Para ler.md",
-    "Untitled.md",
+    "Untitled 1.md",
     "fluxo upload de documentos.md",
     "programming/JS/React/hooks/useMachine.md",
-    "programming/JS/React/hooks/useReducer.md",
     "programming/JS/A Better Way to Work With Number and Date Inputs in JavaScript.md",
     "programming/VSCODE/thunder client uuid variables.md",
     "programming/JS/Safer URL reading and writing in modern JavaScript.md",
     "programming/CSS/add ... to long text.md",
     "hyperlocal/Daily.md",
     "programming/JS/Nestjs/remove x-powered-by in nest.md",
-    "programming/JS/React/hooks/useUrlState.md",
     "programming/JS/React/hooks",
     "programming/docker/create postgres db.md",
     "programming/JS/Fix axios request interceptors.md",
