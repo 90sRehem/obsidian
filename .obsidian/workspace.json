@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/JS/React/hooks/useReducer.md",
+                "file": "programming/JS/React/storybook/create storybook app.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/JS/React/hooks/useReducer.md",
+                "file": "programming/JS/React/storybook/create storybook app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/JS/React/hooks/useReducer.md",
+                "file": "programming/JS/React/storybook/create storybook app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/JS/React/hooks/useReducer.md"
+                "file": "programming/JS/React/storybook/create storybook app.md"
               }
             }
           }
@@ -162,8 +162,12 @@
   },
   "active": "85bb7be9e6cc0653",
   "lastOpenFiles": [
-    "programming/JS/React/hooks/useUrlState.md",
+    "programming/JS/React/tailwind/How to style child element depending on data attribute of parent (open & closed).md",
+    "programming/JS/React/storybook/create storybook app.md",
+    "programming/JS/React/storybook",
+    "programming/JS/React/tailwind",
     "programming/JS/React/hooks/useReducer.md",
+    "programming/JS/React/hooks/useUrlState.md",
     "programming/JS/React/A Custom useStateMachine React Hook.md",
     "Para ler.md",
     "Untitled 1.md",
@@ -188,15 +192,11 @@
     "programming/CSS/put text inside svg circle with width and height 25px.md",
     "programming/CSS/how to make a div receive all css properties as props with styled components.md",
     "programming/git/How do I change the URI (URL) for a remote Git repository.md",
-    "programming/docker/install docker.md",
-    "programming/linux/generate RSA-256 keys.md",
     "hyperlocal",
     "programming/wsl",
     "programming/VSCODE",
     "programming/npm",
     "programming/linux",
-    "programming/JS/React",
-    "programming/JS/NodeJS",
-    "programming/JS"
+    "programming/JS/React"
   ]
 }
