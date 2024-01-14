@@ -14,6 +14,8 @@
 [Using Error Boundary in React](https://medium.com/@vnkelkar11/using-error-boundary-in-react-a29ded725eee)
 [Absolutely Don’t Use Relative Paths Imports In Your Vite React Project.](https://medium.com/@pushplaybang/absolutely-dont-use-relative-paths-imports-in-your-vite-react-project-c8593f93bbea)
 [Uncommonly Used But Very Useful Hooks In React](https://javascript.plainenglish.io/7-uncommonly-used-but-very-useful-hooks-in-react-03c978dcba69)
+[Building Perfect React Table](https://javascript.plainenglish.io/building-perfect-react-table-d4d489e1275c)
+[Supercharging React Components with TypeScript and Compound Components](https://blog.stackademic.com/supercharging-react-components-with-typescript-and-compound-components-ed11e54782c2)
 ## Para assistir
 [Tailwind and Storybook… FINALLY!](https://www.youtube.com/watch?v=zlmpn88LxNM&ab_channel=Chromatic)
 
