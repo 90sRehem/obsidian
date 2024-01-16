@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Para ler.md",
+                "file": "hyperlocal/Daily.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Para ler.md",
+                "file": "hyperlocal/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Para ler.md",
+                "file": "hyperlocal/Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Para ler.md"
+                "file": "hyperlocal/Daily.md"
               }
             }
           }
@@ -147,12 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9661a6200e12cf3b",
+  "active": "8801558da9b93595",
   "lastOpenFiles": [
+    "hyperlocal/git config local.md",
+    "hyperlocal/fluxo BKO.md",
+    "hyperlocal/Daily.md",
+    "Para ler.md",
     "programming/JS/React/hooks/Untitled.md",
     "programming/JS/React/hooks/useMachine.md",
-    "Para ler.md",
-    "hyperlocal/Daily.md",
     "Untitled 1.md",
     "README.md",
     "fluxo upload de documentos.md",
@@ -173,12 +175,10 @@
     "programming/JS/Fix axios request interceptors.md",
     "programming/git/reset unsend commit.md",
     "programming/JS/Normalizar cpf e cnpj.md",
-    "hyperlocal/fluxo BKO.md",
     "programming/JS/React/Bug Replacing a button with a new button type submit causes a form to be submitted without pressing the button.md",
     "programming/JS/Nestjs",
     "programming/docker/Access docker terminal containter.md",
     "programming/CSS/Target specific CSS classes with Styled Components.md",
-    "programming/CSS/put text inside svg circle with width and height 25px.md",
     "hyperlocal",
     "programming/wsl",
     "programming/VSCODE",
