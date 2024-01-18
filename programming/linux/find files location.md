@@ -1,0 +1,4 @@
+```bash
+	which node
+
+```

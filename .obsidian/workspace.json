@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hyperlocal/Daily.md",
+                "file": "programming/linux/find files location.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hyperlocal/Daily.md",
+                "file": "programming/linux/find files location.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hyperlocal/Daily.md",
+                "file": "programming/linux/find files location.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hyperlocal/Daily.md"
+                "file": "programming/linux/find files location.md"
               }
             }
           }
@@ -147,11 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8801558da9b93595",
+  "active": "9661a6200e12cf3b",
   "lastOpenFiles": [
+    "hyperlocal/Daily.md",
+    "programming/linux/find files location.md",
     "hyperlocal/git config local.md",
     "hyperlocal/fluxo BKO.md",
-    "hyperlocal/Daily.md",
     "Para ler.md",
     "programming/JS/React/hooks/Untitled.md",
     "programming/JS/React/hooks/useMachine.md",
@@ -178,7 +179,6 @@
     "programming/JS/React/Bug Replacing a button with a new button type submit causes a form to be submitted without pressing the button.md",
     "programming/JS/Nestjs",
     "programming/docker/Access docker terminal containter.md",
-    "programming/CSS/Target specific CSS classes with Styled Components.md",
     "hyperlocal",
     "programming/wsl",
     "programming/VSCODE",
