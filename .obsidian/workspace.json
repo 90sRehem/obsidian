@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/linux/find files location.md",
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f973341503865c00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/linux/find files location.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/linux/find files location.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/linux/find files location.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -147,16 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9661a6200e12cf3b",
+  "active": "f973341503865c00",
   "lastOpenFiles": [
-    "hyperlocal/Daily.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "programming/linux/find files location.md",
+    "hyperlocal/Daily.md",
     "hyperlocal/git config local.md",
     "hyperlocal/fluxo BKO.md",
     "Para ler.md",
     "programming/JS/React/hooks/Untitled.md",
     "programming/JS/React/hooks/useMachine.md",
-    "Untitled 1.md",
     "README.md",
     "fluxo upload de documentos.md",
     "programming/JS/React/storybook/create storybook app.md",
@@ -178,7 +192,6 @@
     "programming/JS/Normalizar cpf e cnpj.md",
     "programming/JS/React/Bug Replacing a button with a new button type submit causes a form to be submitted without pressing the button.md",
     "programming/JS/Nestjs",
-    "programming/docker/Access docker terminal containter.md",
     "hyperlocal",
     "programming/wsl",
     "programming/VSCODE",
