@@ -5,4 +5,5 @@
 
 ### para hoje:
 - estou buscando quem do backend pode me auxiliar nessa questão do servidor estar retornando 500
+- enquanto isso estou atuando no Bug do menu de grupo de acessos do bko
 
