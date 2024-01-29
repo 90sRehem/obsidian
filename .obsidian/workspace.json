@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/linux/move via terminal.md",
+                "file": "hyperlocal/Daily.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/linux/move via terminal.md",
+                "file": "hyperlocal/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/linux/move via terminal.md",
+                "file": "hyperlocal/Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/linux/move via terminal.md"
+                "file": "hyperlocal/Daily.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "f973341503865c00",
   "lastOpenFiles": [
-    "programming/linux/copy paste via terminal.md",
     "programming/linux/move via terminal.md",
+    "programming/linux/copy paste via terminal.md",
     "hyperlocal/Daily.md",
     "Untitled.md",
     "Untitled 1.md",
