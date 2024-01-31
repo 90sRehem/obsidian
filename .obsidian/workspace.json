@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hyperlocal/Daily.md",
+                "file": "hyperlocal/git config local.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hyperlocal/Daily.md",
+                "file": "hyperlocal/git config local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hyperlocal/Daily.md",
+                "file": "hyperlocal/git config local.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hyperlocal/Daily.md"
+                "file": "hyperlocal/git config local.md"
               }
             }
           }
@@ -162,9 +162,9 @@
   },
   "active": "f973341503865c00",
   "lastOpenFiles": [
+    "hyperlocal/Daily.md",
     "programming/linux/move via terminal.md",
     "programming/linux/copy paste via terminal.md",
-    "hyperlocal/Daily.md",
     "Untitled.md",
     "Untitled 1.md",
     "programming/linux/find files location.md",
