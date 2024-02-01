@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/JS/type and parse proceess.env with zod.md",
+                "file": "hyperlocal/vital.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/JS/type and parse proceess.env with zod.md",
+                "file": "hyperlocal/vital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/JS/type and parse proceess.env with zod.md",
+                "file": "hyperlocal/vital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/JS/type and parse proceess.env with zod.md"
+                "file": "hyperlocal/vital.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "f973341503865c00",
   "lastOpenFiles": [
+    "hyperlocal/fluxo BKO.md",
+    "hyperlocal/vital.md",
+    "programming/JS/type and parse proceess.env with zod.md",
     "programming/linux/install firefox.md",
     "programming/linux/remove firefox.md",
     "Untitled 1.md",
@@ -158,7 +161,6 @@
     "programming/linux/copy paste via terminal.md",
     "Untitled.md",
     "programming/linux/find files location.md",
-    "hyperlocal/fluxo BKO.md",
     "Para ler.md",
     "programming/JS/React/hooks/Untitled.md",
     "programming/JS/React/hooks/useMachine.md",
@@ -175,9 +177,7 @@
     "programming/VSCODE/thunder client uuid variables.md",
     "programming/JS/Safer URL reading and writing in modern JavaScript.md",
     "programming/CSS/add ... to long text.md",
-    "programming/JS/Nestjs/remove x-powered-by in nest.md",
     "programming/JS/React/hooks",
-    "programming/docker/create postgres db.md",
     "programming/JS/Nestjs",
     "hyperlocal",
     "programming/wsl",
