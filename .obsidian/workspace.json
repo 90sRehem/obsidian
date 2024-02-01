@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/linux/install firefox.md",
+                "file": "programming/JS/type and parse proceess.env with zod.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/linux/install firefox.md",
+                "file": "programming/JS/type and parse proceess.env with zod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/linux/install firefox.md",
+                "file": "programming/JS/type and parse proceess.env with zod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/linux/install firefox.md"
+                "file": "programming/JS/type and parse proceess.env with zod.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "f973341503865c00",
   "lastOpenFiles": [
+    "programming/linux/install firefox.md",
     "programming/linux/remove firefox.md",
     "Untitled 1.md",
-    "programming/linux/install firefox.md",
     "hyperlocal/git config local.md",
     "hyperlocal/Daily.md",
     "programming/linux/move via terminal.md",
