@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hyperlocal/vital.md",
+                "file": "programming/linux/install firefox.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hyperlocal/vital.md",
+                "file": "programming/linux/install firefox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hyperlocal/vital.md",
+                "file": "programming/linux/install firefox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hyperlocal/vital.md"
+                "file": "programming/linux/install firefox.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "f973341503865c00",
   "lastOpenFiles": [
-    "hyperlocal/fluxo BKO.md",
     "hyperlocal/vital.md",
+    "hyperlocal/fluxo BKO.md",
     "programming/JS/type and parse proceess.env with zod.md",
     "programming/linux/install firefox.md",
     "programming/linux/remove firefox.md",
