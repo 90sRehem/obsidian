@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/linux/install firefox.md",
+                "file": "programming/JS/Safer URL reading and writing in modern JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/linux/install firefox.md",
+                "file": "programming/JS/Safer URL reading and writing in modern JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/linux/install firefox.md",
+                "file": "programming/JS/Safer URL reading and writing in modern JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/linux/install firefox.md"
+                "file": "programming/JS/Safer URL reading and writing in modern JavaScript.md"
               }
             }
           }
@@ -149,10 +149,15 @@
   },
   "active": "f973341503865c00",
   "lastOpenFiles": [
-    "hyperlocal/vital.md",
-    "hyperlocal/fluxo BKO.md",
+    "programming/JS/download file using axios.md",
+    "programming/JS/A Better Way to Work With Number and Date Inputs in JavaScript.md",
+    "programming/JS/Fix axios request interceptors.md",
+    "programming/JS/Normalizar cpf e cnpj.md",
+    "programming/JS/split currency from Intl.NumberFormat.md",
     "programming/JS/type and parse proceess.env with zod.md",
     "programming/linux/install firefox.md",
+    "hyperlocal/vital.md",
+    "hyperlocal/fluxo BKO.md",
     "programming/linux/remove firefox.md",
     "Untitled 1.md",
     "hyperlocal/git config local.md",
@@ -172,11 +177,6 @@
     "programming/JS/React/tailwind",
     "programming/JS/React/hooks/useReducer.md",
     "programming/JS/React/hooks/useUrlState.md",
-    "programming/JS/React/A Custom useStateMachine React Hook.md",
-    "programming/JS/A Better Way to Work With Number and Date Inputs in JavaScript.md",
-    "programming/VSCODE/thunder client uuid variables.md",
-    "programming/JS/Safer URL reading and writing in modern JavaScript.md",
-    "programming/CSS/add ... to long text.md",
     "programming/JS/React/hooks",
     "programming/JS/Nestjs",
     "hyperlocal",
