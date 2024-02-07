@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0addaa1980972e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Untitled 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "Untitled 3.md"
               }
             }
           }
@@ -160,10 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "330532156d5dd9d7",
+  "active": "b0addaa1980972e9",
   "lastOpenFiles": [
-    "programming/JS/Safer URL reading and writing in modern JavaScript.md",
     "Untitled 2.md",
+    "Untitled 3.md",
+    "programming/JS/Safer URL reading and writing in modern JavaScript.md",
     "programming/JS/download file using axios.md",
     "programming/JS/A Better Way to Work With Number and Date Inputs in JavaScript.md",
     "programming/JS/Fix axios request interceptors.md",
@@ -187,7 +200,6 @@
     "README.md",
     "fluxo upload de documentos.md",
     "programming/JS/React/storybook/create storybook app.md",
-    "programming/JS/React/tailwind/How to style child element depending on data attribute of parent (open & closed).md",
     "programming/JS/React/storybook",
     "programming/JS/React/tailwind",
     "programming/JS/React/hooks",
