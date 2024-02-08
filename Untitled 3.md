@@ -1,1 +1,9 @@
-Re
+das que eu solicitei essas foram adicionadas
+[x] - [[Finance]\Banking - Staging approver](https://dev.azure.com/hyperlocal-tech/Finance/_settings/permissions?subjectDescriptor=vssgp.Uy0xLTktMTU1MTM3NDI0NS05ODU5NDQ1MDItMTExMjQzODU0LTI5MzQyMzk3ODMtMjExMzI0Mjk4NS0xLTI5MTYzMDI2OTItMTMyMjY5MTE0OC0yMjE2NTAzNjA3LTExNDU0MTA5MDc)
+[x] - [[Plataforma]\Plataforma Team](https://dev.azure.com/hyperlocal-tech/Plataforma/_settings/permissions?subjectDescriptor=vssgp.Uy0xLTktMTU1MTM3NDI0NS0zNDc5MTI3NzctMTQzNjMwOTU3NS0yNDM1NTYyNjcxLTEyNzU2NjM3MDgtMS0zMDY3ODU0NjMyLTg1NjEyOTg2NC0yODUwMzc3NzIyLTMzNzU0NTk1MTM)
+[x] - [[Finance]\Backoffice - Production approver](https://dev.azure.com/hyperlocal-tech/Finance/_settings/permissions?subjectDescriptor=vssgp.Uy0xLTktMTU1MTM3NDI0NS05ODU5NDQ1MDItMTExMjQzODU0LTI5MzQyMzk3ODMtMjExMzI0Mjk4NS0xLTE2NjcxNDcwNjYtMjY1ODUxNTYtMjQxMTQxNTU2OC0zMDczMTU1MzQ)
+[x] - [[Finance]\Backoffice - Staging approver](https://dev.azure.com/hyperlocal-tech/Finance/_settings/permissions?subjectDescriptor=vssgp.Uy0xLTktMTU1MTM3NDI0NS05ODU5NDQ1MDItMTExMjQzODU0LTI5MzQyMzk3ODMtMjExMzI0Mjk4NS0xLTMwOTczMjUzODQtMzU0MTUyNzExMS0zMTQwNDAxODQzLTEyODc0NDM3NzQ)
+[x] - [[Finance]\Banking - Production approver](https://dev.azure.com/hyperlocal-tech/Finance/_settings/permissions?subjectDescriptor=vssgp.Uy0xLTktMTU1MTM3NDI0NS05ODU5NDQ1MDItMTExMjQzODU0LTI5MzQyMzk3ODMtMjExMzI0Mjk4NS0xLTMyNDc5NTUxNzYtMTU0Mjg5OTAyMS0yMjQ0MTAzNjQ3LTMxNTg4MDE1ODU)
+
+[[Finance]\Backoffice - Testing approver](https://dev.azure.com/hyperlocal-tech/Finance/_settings/permissions?subjectDescriptor=vssgp.Uy0xLTktMTU1MTM3NDI0NS05ODU5NDQ1MDItMTExMjQzODU0LTI5MzQyMzk3ODMtMjExMzI0Mjk4NS0xLTQxNjIxNTQxNjYtMzYwNDg2MzgxOC0yOTcxMTE3OTg4LTYxMjcyMTQ0NQ)
+[[Finance]\Tech Lead](https://dev.azure.com/hyperlocal-tech/Finance/_settings/permissions?subjectDescriptor=vssgp.Uy0xLTktMTU1MTM3NDI0NS0xMjg5MjkxNDY4LTIwMzQ4MjExOTAtMjk0NDczMzg3NC0yNDUxNTM3MTAxLTEtMzE5MzY1Mzg1MS0zMzMwNjM3MTI0LTMxOTI2NzgyOTAtMzQzMzk1NjQ1OA)
