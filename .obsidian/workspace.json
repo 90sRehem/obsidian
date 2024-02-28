@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "programming/linux/install firefox.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "programming/linux/install firefox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "programming/linux/install firefox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 3.md"
+                "file": "programming/linux/install firefox.md"
               }
             }
           }
@@ -174,8 +174,9 @@
   },
   "active": "b0addaa1980972e9",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "programming/linux/remove firefox.md",
     "Untitled 3.md",
+    "Untitled 2.md",
     "programming/JS/Safer URL reading and writing in modern JavaScript.md",
     "programming/JS/download file using axios.md",
     "programming/JS/A Better Way to Work With Number and Date Inputs in JavaScript.md",
@@ -186,7 +187,6 @@
     "programming/linux/install firefox.md",
     "hyperlocal/vital.md",
     "hyperlocal/fluxo BKO.md",
-    "programming/linux/remove firefox.md",
     "Untitled 1.md",
     "hyperlocal/git config local.md",
     "hyperlocal/Daily.md",
