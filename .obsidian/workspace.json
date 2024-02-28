@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/linux/install firefox.md",
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f57de09561d316c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/linux/install firefox.md",
+                "file": "Untitled 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/linux/install firefox.md",
+                "file": "Untitled 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/linux/install firefox.md"
+                "file": "Untitled 4.md"
               }
             }
           }
@@ -172,10 +184,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0addaa1980972e9",
+  "active": "f57de09561d316c8",
   "lastOpenFiles": [
-    "programming/linux/remove firefox.md",
     "Untitled 3.md",
+    "Untitled 4.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "programming/linux/install firefox.md",
+    "programming/linux/remove firefox.md",
     "Untitled 2.md",
     "programming/JS/Safer URL reading and writing in modern JavaScript.md",
     "programming/JS/download file using axios.md",
@@ -184,22 +200,18 @@
     "programming/JS/Normalizar cpf e cnpj.md",
     "programming/JS/split currency from Intl.NumberFormat.md",
     "programming/JS/type and parse proceess.env with zod.md",
-    "programming/linux/install firefox.md",
     "hyperlocal/vital.md",
     "hyperlocal/fluxo BKO.md",
-    "Untitled 1.md",
     "hyperlocal/git config local.md",
     "hyperlocal/Daily.md",
     "programming/linux/move via terminal.md",
     "programming/linux/copy paste via terminal.md",
-    "Untitled.md",
     "programming/linux/find files location.md",
     "Para ler.md",
     "programming/JS/React/hooks/Untitled.md",
     "programming/JS/React/hooks/useMachine.md",
     "README.md",
     "fluxo upload de documentos.md",
-    "programming/JS/React/storybook/create storybook app.md",
     "programming/JS/React/storybook",
     "programming/JS/React/tailwind",
     "programming/JS/React/hooks",
