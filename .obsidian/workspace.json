@@ -59,14 +59,28 @@
             "id": "636ec872f7fa935b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccb443e3b89ea254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "telas finance.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "telas finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 4.md",
+                "file": "telas finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 4.md"
+                "file": "telas finance.md"
               }
             }
           }
@@ -194,15 +208,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "636ec872f7fa935b",
+  "active": "ccb443e3b89ea254",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "telas finance.md",
     "Untitled 3.md",
     "Untitled 4.md",
     "Untitled.md",
     "Untitled 1.md",
     "programming/linux/install firefox.md",
     "programming/linux/remove firefox.md",
-    "Untitled 2.md",
     "programming/JS/Safer URL reading and writing in modern JavaScript.md",
     "programming/JS/download file using axios.md",
     "programming/JS/A Better Way to Work With Number and Date Inputs in JavaScript.md",
@@ -221,7 +236,6 @@
     "programming/JS/React/hooks/Untitled.md",
     "programming/JS/React/hooks/useMachine.md",
     "README.md",
-    "fluxo upload de documentos.md",
     "programming/JS/React/storybook",
     "programming/JS/React/tailwind",
     "programming/JS/React/hooks",
