@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "telas finance.md",
+                "file": "hyperlocal/git config local.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "telas finance.md",
+                "file": "hyperlocal/git config local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "telas finance.md",
+                "file": "hyperlocal/git config local.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "telas finance.md"
+                "file": "hyperlocal/git config local.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "ccb443e3b89ea254",
   "lastOpenFiles": [
+    "telas finance.md",
     "programming/JS/Safer URL reading and writing in modern JavaScript.md",
     "Untitled 4.md",
-    "telas finance.md",
     "Untitled 1.md",
     "README.md",
     "Para ler.md",
