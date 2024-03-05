@@ -1,8 +1,2 @@
-### banking 
-
-- Dashboard - 
-- Extrato - 
-- Comprovantes - 
-- Transferência - 
-- CashOut -
-- 
+- [Banking Geral (Antigo)](https://www.figma.com/file/VZHC1dpXJLzMnbyww94MRe/Banking---Hyperlocal?type=design&node-id=5074%3A75355&mode=design&t=YWGaeWMZFFWIcXnn-1)
+- [Recorrência TED]
