@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avaliação de Desempenho e Desenvolvimento Profissional.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a00194904416c56",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avaliação de Desempenho e Desenvolvimento Profissional.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Avaliação de Desempenho e Desenvolvimento Profissional.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avaliação de Desempenho e Desenvolvimento Profissional.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -147,12 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccb443e3b89ea254",
+  "active": "3a00194904416c56",
   "lastOpenFiles": [
+    "Avaliação de Desempenho e Desenvolvimento Profissional.md",
     "hyperlocal/git config local.md",
     "telas finance.md",
     "programming/JS/Safer URL reading and writing in modern JavaScript.md",
-    "Avaliação de Desempenho e Desenvolvimento Profissional.md",
     "Untitled 1.md",
     "README.md",
     "Para ler.md",
