@@ -11,3 +11,7 @@ account-management - leo
 
 cashout
 boleto
+
+validar sobre o token
+no fluxo do mangar manda o token junto com payload
+já no whitelabel primeiro gera e valida o token e só depois realaziza a ação
