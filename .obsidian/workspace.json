@@ -23,9 +23,11 @@
             "id": "3a00194904416c56",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
